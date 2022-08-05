@@ -1,0 +1,1 @@
+f'https://api.openweathermap.org/data/2.5/weather?q={location}&appid={api_key}''
